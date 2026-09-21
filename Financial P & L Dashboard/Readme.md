@@ -1,0 +1,1 @@
+An interactive Financial P&L Dashboard built using Power BI, DAX, and Excel to analyze business performance across revenue, expenses, budgets, and profitability. The project includes interactive slicers, KPI cards, financial statements, variance analysis, and multiple analytical dashboards for management reporting
